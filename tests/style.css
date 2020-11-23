@@ -1,0 +1,41 @@
+body {
+    padding-top: 70px;
+}
+
+#remember{
+    margin-right: 7px;
+}
+
+.form-inline{
+    display: inline-block;
+}
+.pull-right a{
+	text-decoration: none;
+}
+.pull-right a:hover{
+	color: black;
+	transition: 0.3s;
+}
+ 
+.container {
+  padding: 2rem 0rem;
+}
+
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+
+.table-image .img-thumbnail {
+  
+    vertical-align: middle;
+    height: 200px;
+  
+}
+ 
+.inputf {
+  width: 70%;
+  margin-left:10%;
+  margin-bottom:10%;
+  margin-top:5%;
+}
+ 
